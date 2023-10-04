@@ -1,1 +1,1 @@
-Select * FROM Empleados WHERE salario > 1160000;
+SELECT nombre FROM Empleados WHERE salario > 1160000;
