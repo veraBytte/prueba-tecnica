@@ -1,0 +1,1 @@
+Select * FROM Empleados WHERE salario > 1160000;
